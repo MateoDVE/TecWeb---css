@@ -79,3 +79,10 @@ input:disabled
     background-color: lightgray;
     color: gray;
 }
+.capibara1,.capibara2,.capibara3
+{
+    width: 150px;
+    height: 150px;
+    background-color: hsl(0, 50,50);
+    border-radius: 10%;
+}
